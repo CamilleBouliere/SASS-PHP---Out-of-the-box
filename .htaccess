@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^css/?(.+)\.css$ lib/scssphp/sass_compiler.php?filename=$1
