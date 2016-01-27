@@ -1,4 +1,4 @@
-# SASS-PHP - Out of the box
+# SASS PHP - Out of the box
 
 Out of the box SASS compiler (SCSS syntax) in PHP with Apache rewriting based on [leafo's scss.php][compilerurl].
 
@@ -34,5 +34,9 @@ You know how to copy a file ? You know SCSS ? You are ready! It's perfect for fr
 
 I'm not a backend developer! I don't know shit about nice PHP coding rules. So, here you have my little tool, built to ease up my *coding* life. It mostly works well... but it's not optimized, there might be some errors and security holes.
 
+## You prefer LESS ?
+
+Check out [LESS PHP - Out of the box][lesscompiler].
 
 [compilerurl]: https://github.com/leafo/scssphp
+[lesscompiler]: https://github.com/CamilleBouliere/LESS-PHP---Out-of-the-box/
